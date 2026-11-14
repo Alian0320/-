@@ -1,0 +1,6 @@
+{
+  "name": "外送路線解析器 v10",
+  "description": "專為宜蘭羅東、冬山、五結外送動線打造的截圖與影片解析工具，支援路名同音字校對、全局重複訂單合併、8筆自動分組與淨化導航連結生成。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
